@@ -1,0 +1,14 @@
+{
+  "name": "class2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Aryan Manandhar",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^5.3.8"
+  }
+}
